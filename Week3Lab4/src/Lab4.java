@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class Lab4 {
@@ -20,3 +19,5 @@ public class Lab4 {
 	}
 		
 }
+
+// Good jobs.  Are you able to integrate GitHub with your IDW?
